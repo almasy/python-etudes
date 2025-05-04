@@ -8,7 +8,7 @@ from tkinter import ttk
 
 import ttkcalculator.controller as controller
 import ttkcalculator.model as model
-import ttkcalculator.tkview as view
+import ttkcalculator.tk_view as view
 
 
 def main():
